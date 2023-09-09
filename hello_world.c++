@@ -12,4 +12,5 @@ void mergesort(){
 int main(){
     cout<<"hello world"<<endl;
     cout<<"today is rainy day"<<endl;
+    cout<<"hey";
 }
